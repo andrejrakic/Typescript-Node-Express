@@ -32,7 +32,7 @@ Hi, I'm [Andrej](https://www.linkedin.com/in/andrejrakic/) and I'm giving you a 
 <a href="https://github.com/TypeStrong/ts-node">
   <img
     height="90"
-    width="180"
+    width="250"
     alt="tsnode"
     src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.EO7aT6u83T0R6ymrhZLMZQHaCf%26pid%3DApi&f=1"
     align="left"
